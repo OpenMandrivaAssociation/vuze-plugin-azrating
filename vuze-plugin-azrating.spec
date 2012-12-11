@@ -42,3 +42,10 @@ rm -rf %{buildroot}
 %defattr(-,root,root)
 %dir %{_datadir}/azureus/plugins/%plugin
 %{_datadir}/azureus/plugins/%plugin/%{plugin}_%{version}.jar
+
+
+%changelog
+* Sun Sep 20 2009 Anssi Hannula <anssi@mandriva.org> 1.3.1-1mdv2010.0
++ Revision: 445728
+- initial Mandriva release
+
