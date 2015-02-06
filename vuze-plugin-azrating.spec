@@ -3,7 +3,7 @@
 
 Name:		vuze-plugin-%plugin
 Version:	1.3.1
-Release:	%mkrel 1
+Release:	2
 Summary:	Vuze plugin: Rating
 Group:		Networking/File transfer
 License:	GPLv2+
